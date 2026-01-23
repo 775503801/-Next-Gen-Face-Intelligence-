@@ -42,7 +42,15 @@ The engine is not just a wrapper; it's a fine-tuned pipeline:
 - **Emotion gates**: Based on mouth openness ratio ($H_{mouth}$) and eyebrow elevation ($E$).
 
 ---
+## ✍️ Engineer Development
+## Mohammed Ameen Saleh Albareda
+Advanced AI Solutions Specialist | Cybersecurity Expert  
 
+[GitHub](https://github.com/775503801) | [LinkedIn](https://www.linkedin.com/in/Mohammed-Albareda) | [Instagram](https://www.instagram.com/mhmd.lbrdh?igsh=a2J4aXVidHpsb3Yw) | [Facebook](https://www.facebook.com/share/18Gh1EKFnP/)  
+
+📧 mohmmedas2004@gmail.com | 📱 +967775503801
+
+*Designing innovative AI solutions while securing digital systems to drive smart and safe technology.*
 <br><br>
 <a name="arabic-version"></a>
 
@@ -114,9 +122,12 @@ The engine is not just a wrapper; it's a fine-tuned pipeline:
 ---
 
 ## ✍️ تطوير المهندس
-**محمد امين صالح البارده (Eng. mohammed Ameen Saleh Albareda)**  
-أخصائي حلول الذكاء الاصطناعي المتقدمة  
-[GitHub](https://github.com/775503801) | [LinkedIn](www.linkedin.com/in/محمد-امين-898953272/)
+##  محمد أمين صالح البارده
+أخصائي حلول الذكاء الاصطناعي المتقدمة | متخصص في أمن سيبراني  
 
----
-*Developed for Advanced AI Enterprise Solutions.*
+[GitHub](https://github.com/775503801) | [LinkedIn](https://www.linkedin.com/in/Mohammed-Albareda) | [Instagram](https://www.instagram.com/mhmd.lbrdh?igsh=a2J4aXVidHpsb3Yw) | [Facebook](https://www.facebook.com/share/18Gh1EKFnP/)  
+
+📧 mohmmedas2004@gmail.com | 📱 +967775503801
+
+*أبتكر حلول ذكاء اصطناعي متقدمة وأؤمن الأنظمة الرقمية لتعزيز الأداء وحماية المعلومات.*
+
